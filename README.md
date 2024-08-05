@@ -101,10 +101,6 @@ To deploy on Firebase Hosting:
     firebase deploy
     ```
 
-## Contributing
-
-If you want to contribute to this project, feel free to open an issue or submit a pull request.
-
 ## Acknowledgments
 
 - [Netflix](https://www.netflix.com) for the inspiration.
